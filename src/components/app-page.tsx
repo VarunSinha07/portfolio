@@ -163,7 +163,7 @@ const slugs = ["react", "typescript", "javascript", "nodejs", "css3", "html5", "
 
   const dockItems = [
     {
-      title: "GMail",
+      title: "Gmail",
       icon: <IconMail className="h-6 w-6" />,
       href: "mailto:varunsinha2604@gmail.com",
     },
