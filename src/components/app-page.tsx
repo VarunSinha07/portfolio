@@ -26,12 +26,12 @@ const products = [
   },
   {
     title: "EchoTales",
-    link: "/https://echotales.vercel.app/",
+    link: "https://echotales.vercel.app/",
     thumbnail: "/EchoTales.png",
   },
   {
     title: "PlanIt",
-    link: "/https://github.com/VarunSinha07/ToDo-List",
+    link: "https://github.com/VarunSinha07/ToDo-List",
     thumbnail: "/todo.png",
   },
   {
@@ -51,7 +51,7 @@ const products = [
   },
   {
     title: "PlanIt",
-    link: "/https://github.com/VarunSinha07/ToDo-List",
+    link: "https://github.com/VarunSinha07/ToDo-List",
     thumbnail: "/todo.png",
   },
   {
